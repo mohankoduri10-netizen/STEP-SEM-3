@@ -1,4 +1,4 @@
-package week9.practiceproblems;
+package week10.practiceproblems;
 
 public class VowelConsonantCounter import java.util.Scanner;
 
