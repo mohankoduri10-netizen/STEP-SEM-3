@@ -1,4 +1,4 @@
-package week5.homework;
+package week6.homework;
 
 public class course {
 }
